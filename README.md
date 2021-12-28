@@ -1,16 +1,9 @@
-# login_page
+# welcome_page
 
-A new Flutter project.
+### Description 
+Welcome page is a first screen that appears when you first time download the app
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Screeshots
+<p float="left">
+<img src="https://user-images.githubusercontent.com/66002375/147542452-9fc95a6f-016b-4492-b981-69f11aeeeb85.png" widht="200" height="400">
+</p>
